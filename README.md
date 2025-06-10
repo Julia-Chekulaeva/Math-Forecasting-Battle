@@ -1,1 +1,1 @@
-Math Forecasting (ITMO course): Battle
+**Math Forecasting (ITMO course): Battle**
